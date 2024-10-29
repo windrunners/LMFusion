@@ -10,9 +10,11 @@ Multimodal image fusion can realize the high-quality integration of different co
 
 # The core method of picture presentation
 ![1](https://github.com/user-attachments/assets/9901e1bd-17da-419a-8a5b-24934ddcf877)
+
 Figure.1 The whole approach and fusion structure
 
 ![2](https://github.com/user-attachments/assets/fd466d85-4fd6-4cd3-be2f-12186916c571)
+
 Figure.2 Model structure and details of LMFusion
 
 # The model trained in the first stage under the "models" folder
