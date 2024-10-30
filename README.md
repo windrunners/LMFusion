@@ -34,7 +34,8 @@ Run the "main.py" file.
 Run the "test_image.py" file.
 
 # The model trained in the first stage under the "models" folder
-download link: 
+Download Link: 
+
 A. 百度网盘
 
 https://pan.baidu.com/s/1Mpk_KB8mTMCIKCkAS_r-1A 
