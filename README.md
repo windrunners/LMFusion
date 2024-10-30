@@ -18,9 +18,11 @@ Figure.1 The whole approach and fusion structure
 Figure.2 Model structure and details of LMFusion
 
 # The model trained in the first stage under the "models" folder
-download link: https://pan.baidu.com/s/1Mpk_KB8mTMCIKCkAS_r-1A 
+download link: 
+A. 百度网盘
+https://pan.baidu.com/s/1Mpk_KB8mTMCIKCkAS_r-1A 
 password: pzqa
-
+B. Google drive
 https://drive.google.com/file/d/1TDKOOybjtN7qyduFUwrHO7hu2Rh105nH/view?usp=sharing
 
 # data set
