@@ -17,28 +17,32 @@ Figure.1 The whole approach and fusion structure
 
 Figure.2 Model structure and details of LMFusion
 
-# The model trained in the first stage under the "models" folder
-download link: 
-A. 百度网盘
-https://pan.baidu.com/s/1Mpk_KB8mTMCIKCkAS_r-1A 
-password: pzqa
-B. Google drive
-https://drive.google.com/file/d/1TDKOOybjtN7qyduFUwrHO7hu2Rh105nH/view?usp=sharing
 
-# data set
+
+# data set in the second stage
 ## data set for training
-Download MSCOCO as a file named "MSCOCO 2014" and place the file in the main folder, then you can train.
+In the second stage of training, the LMFusion model adopts training data set RESIDE-ITS and test data set RESIDE-SOTS-indoor.
+Download dataset and place the file in the main folder, then you can train.
 
 ## data set for test
-Put your own test data into the corresponding file.
-
+Put the smoky test data into the corresponding file.
 
 # train
-Run the "train_tufusion.py" file.
-
+Run the "main.py" file.
 
 # test
 Run the "test_image.py" file.
+
+# The model trained in the first stage under the "models" folder
+download link: 
+A. 百度网盘
+
+https://pan.baidu.com/s/1Mpk_KB8mTMCIKCkAS_r-1A 
+password: pzqa
+
+B. Google drive
+
+https://drive.google.com/file/d/1TDKOOybjtN7qyduFUwrHO7hu2Rh105nH/view?usp=sharing
 
 
 # Citation
