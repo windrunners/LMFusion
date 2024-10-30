@@ -21,6 +21,8 @@ Figure.2 Model structure and details of LMFusion
 download link: https://pan.baidu.com/s/1Mpk_KB8mTMCIKCkAS_r-1A 
 password: pzqa
 
+https://drive.google.com/file/d/1TDKOOybjtN7qyduFUwrHO7hu2Rh105nH/view?usp=sharing
+
 # data set
 ## data set for training
 Download MSCOCO as a file named "MSCOCO 2014" and place the file in the main folder, then you can train.
