@@ -19,6 +19,7 @@ crop_size='whole_img'
 if opt.crop:
     crop_size=opt.crop_size
 
+
 def tensorShow(tensors,titles=None):
         '''
         t:BCWH
