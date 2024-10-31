@@ -18,7 +18,6 @@ Figure.1 The whole approach and fusion structure
 Figure.2 Model structure and details of LMFusion
 
 
-
 # data set in the second stage
 ## data set for training
 In the second stage of training, the LMFusion model adopts training data set RESIDE-ITS and test data set RESIDE-SOTS-indoor.
