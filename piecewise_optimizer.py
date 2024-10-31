@@ -2,7 +2,6 @@ from typing import Tuple, Optional, Callable
 import torch
 from torch.optim.optimizer import Optimizer
 
-
 # functions
 def exists(val):
     return val is not None
