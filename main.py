@@ -19,7 +19,6 @@ import pytorch_msssim
 from piecewise_optimizer import piecewise
 
 
-
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 def load_model(path, input_nc, output_nc):
