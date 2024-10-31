@@ -1,6 +1,7 @@
 
 class args():
 
+	
 	# training args
 	epochs = 4 #"number of training epochs, default is 2"
 	batch_size = 1 #"batch size for training, default is 4"
