@@ -28,6 +28,7 @@ print(opt)
 print('model_dir:',opt.model_dir)
 
 
+
 if not os.path.exists('trained_models'):
 	os.mkdir('trained_models')
 if not os.path.exists('numpy_files'):
